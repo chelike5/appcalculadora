@@ -20,7 +20,7 @@
 
 body{
     min-height: 100vh;
-    background: linear-gradient(to bottom,);
+    background: linear-gradient(to bottom, var(--orange),var(--black));
     display: grid;
     place-items: center;
 }
