@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+:root{
+  --orange: #da8311;
+  --black: #131211;
+}
+
 .container{
     width: 400px;
     height: 600px;
@@ -15,7 +20,7 @@
 
 body{
     min-height: 100vh;
-    background-color: #da8311;
+    background: linear-gradient(to bottom,);
     display: grid;
     place-items: center;
 }
